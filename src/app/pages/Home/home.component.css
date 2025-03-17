@@ -1,0 +1,30 @@
+/* kira.component.css */
+.kira-title {
+    font-family: serif; /* O el nombre de tu fuente serif */
+    font-size: 24px;
+    font-weight: bold;
+    color: #6D1A35;
+  }
+  
+  .kira-subtitle {
+    font-family: serif;
+    font-size: 14px;
+    color: #757575; /* Gris Material Design */
+  }
+  
+  .kira-h2 {
+    font-family: serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #9F3A52;
+  }
+  
+  .kira-grid-title {
+    font-weight: bold;  
+  }
+  
+  
+  table { width: 100%; border-collapse: collapse; margin-bottom: 10px; }
+  th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+  ul, ol { margin-bottom: 10px; padding-left: 20px; }
+  p { margin-bottom: 10px; }
