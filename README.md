@@ -1,5 +1,7 @@
 # FrontObservatorio
 
+Link Test: https://esneidermajin.github.io/ObservatorioSoftware/ , https://esneidermajin.github.io/ObservatorioSoftwareFront/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
 ## Development server
